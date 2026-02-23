@@ -1,4 +1,4 @@
-```markdown
+markdown
 # GL1TCH0V3RR1D3 Terminal v2.0.0
 
 ![Version](https://img.shields.io/badge/version-2.0.0-brightgreen.svg)
@@ -25,7 +25,7 @@
 matrix --on     # Enable matrix rain effect
 matrix --off    # Disable matrix rain effect
 cls            # Alias for clear command
-```
+
 
 ###  **Bug Fixes**
 - ✓ Matrix animation now starts properly
